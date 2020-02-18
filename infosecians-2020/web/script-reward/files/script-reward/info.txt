@@ -1,0 +1,6 @@
+Script Reward
+55
+
+Every thousandth visitor gets a prize!! Can u grab the prize??
+
+URL :http://ctf.infosecians.tech:81/about.php
